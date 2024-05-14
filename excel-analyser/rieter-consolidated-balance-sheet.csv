@@ -1,0 +1,31 @@
+﻿Asset Category,Item,Amount ($)
+Current Assets,Cash and Cash Equivalents,500000
+Current Assets,Accounts Receivable,750000
+Current Assets,Inventory,400000
+Current Assets,Prepaid Expenses,25000
+Current Assets,Short-term Investments,100000
+Current Assets,Total Current Assets,1775000
+Non-Current Assets,Property Plant and Equipment,2000000
+Non-Current Assets,Intangible Assets,500000
+Non-Current Assets,Investments,100000
+Non-Current Assets,Other Non-Current Assets,75000
+Non-Current Assets,Long-term Investments,300000
+Non-Current Assets,Total Non-Current Assets,2830000
+Total Assets,,4605000
+Liabilities & Equity,,
+Current Liabilities,Accounts Payable,350000
+Current Liabilities,Short-term Loans,100000
+Current Liabilities,Accrued Expenses,50000
+Current Liabilities,Current Portion of Long-term Debt,75000
+Current Liabilities,Total Current Liabilities,575000
+Non-Current Liabilities,Long-term Loans,1500000
+Non-Current Liabilities,Other Non-Current Liabilities,250000
+Non-Current Liabilities,Deferred Tax Liabilities,100000
+Non-Current Liabilities,Total Non-Current Liabilities,1750000
+Total Liabilities,,2325000
+Equity,Common Stock,1000000
+Equity,Preferred Stock,500000
+Equity,Retained Earnings,775000
+Equity,Additional Paid-in Capital,250000
+Equity,Total Equity,2525000
+Total Liabilities & Equity,,4605000

@@ -1,0 +1,93 @@
+Date,Category,Description,Amount,Currency
+2024-01-01,Income,Sales Revenue,5000,USD
+2024-01-02,Expense,Office Supplies,-200,USD
+2024-01-03,Expense,Utilities,-300,USD
+2024-01-04,Income,Consulting Fees,3500,USD
+2024-01-05,Expense,Marketing,-500,USD
+2024-01-06,Expense,Salaries,-2000,USD
+2024-01-07,Income,Product Sales,6000,USD
+2024-01-08,Expense,Travel,-800,USD
+2024-01-09,Expense,Equipment,-1500,USD
+2024-01-10,Income,Service Fees,4500,USD
+2024-01-11,Expense,Rent,-1200,USD
+2024-01-12,Expense,Insurance,-400,USD
+2024-01-13,Income,Investment Returns,2000,USD
+2024-01-14,Expense,Advertising,-600,USD
+2024-01-15,Expense,Repairs,-300,USD
+2024-01-16,Income,Subscriptions,1000,USD
+2024-01-17,Expense,Software Licenses,-250,USD
+2024-01-18,Expense,Consulting Fees,-2000,USD
+2024-01-19,Income,Product Sales,7000,USD
+2024-01-20,Expense,Utilities,-400,USD
+2024-01-21,Expense,Office Rent,-1500,USD
+2024-01-22,Income,Service Fees,5000,USD
+2024-01-23,Expense,Travel,-700,USD
+2024-01-24,Expense,Equipment,-1000,USD
+2024-01-25,Income,Consulting Fees,4000,USD
+2024-01-26,Expense,Marketing,-600,USD
+2024-01-27,Expense,Salaries,-2500,USD
+2024-01-28,Income,Sales Revenue,5500,USD
+2024-01-29,Expense,Office Supplies,-250,USD
+2024-01-30,Expense,Utilities,-350,USD
+2024-01-31,Income,Consulting Fees,3700,USD
+2024-02-01,Expense,Marketing,-550,USD
+2024-02-02,Expense,Salaries,-2100,USD
+2024-02-03,Income,Product Sales,6200,USD
+2024-02-04,Expense,Travel,-850,USD
+2024-02-05,Expense,Equipment,-1600,USD
+2024-02-06,Income,Service Fees,4700,USD
+2024-02-07,Expense,Rent,-1300,USD
+2024-02-08,Expense,Insurance,-450,USD
+2024-02-09,Income,Investment Returns,2300,USD
+2024-02-10,Expense,Advertising,-700,USD
+2024-02-11,Expense,Repairs,-400,USD
+2024-02-12,Income,Subscriptions,1200,USD
+2024-02-13,Expense,Software Licenses,-300,USD
+2024-02-14,Expense,Consulting Fees,-2300,USD
+2024-02-15,Income,Product Sales,7500,USD
+2024-02-16,Expense,Utilities,-450,USD
+2024-02-17,Expense,Office Rent,-1600,USD
+2024-02-18,Income,Service Fees,5500,USD
+2024-02-19,Expense,Travel,-750,USD
+2024-02-20,Expense,Equipment,-1100,USD
+2024-02-21,Income,Consulting Fees,4200,USD
+2024-02-22,Expense,Marketing,-650,USD
+2024-02-23,Expense,Salaries,-2700,USD
+2024-02-24,Income,Sales Revenue,5800,USD
+2024-02-25,Expense,Office Supplies,-300,USD
+2024-02-26,Expense,Utilities,-400,USD
+2024-02-27,Income,Consulting Fees,3800,USD
+2024-02-28,Expense,Marketing,-600,USD
+2024-02-29,Expense,Salaries,-2200,USD
+2024-03-01,Income,Product Sales,6700,USD
+2024-03-02,Expense,Travel,-800,USD
+2024-03-03,Expense,Equipment,-1500,USD
+2024-03-04,Income,Service Fees,4800,USD
+2024-03-05,Expense,Rent,-1400,USD
+2024-03-06,Expense,Insurance,-500,USD
+2024-03-07,Income,Investment Returns,2400,USD
+2024-03-08,Expense,Advertising,-700,USD
+2024-03-09,Expense,Repairs,-350,USD
+2024-03-10,Income,Subscriptions,1100,USD
+2024-03-11,Expense,Software Licenses,-250,USD
+2024-03-12,Expense,Consulting Fees,-2100,USD
+2024-03-13,Income,Product Sales,7300,USD
+2024-03-14,Expense,Utilities,-400,USD
+2024-03-15,Expense,Office Rent,-1700,USD
+2024-03-16,Income,Service Fees,5600,USD
+2024-03-17,Expense,Travel,-700,USD
+2024-03-18,Expense,Equipment,-1200,USD
+2024-03-19,Income,Consulting Fees,4300,USD
+2024-03-20,Expense,Marketing,-600,USD
+2024-03-21,Expense,Salaries,-2600,USD
+2024-03-22,Income,Sales Revenue,5900,USD
+2024-03-23,Expense,Office Supplies,-350,USD
+2024-03-24,Expense,Utilities,-450,USD
+2024-03-25,Income,Consulting Fees,3900,USD
+2024-03-26,Expense,Marketing,-650,USD
+2024-03-27,Expense,Salaries,-2300,USD
+2024-03-28,Income,Product Sales,6800,USD
+2024-03-29,Expense,Travel,-750,USD
+2024-03-30,Expense,Equipment,-1300,USD
+2024-03-31,Income,Service Fees,4900,USD
+2024-04-01,Expense,Rent,-1500,USD
